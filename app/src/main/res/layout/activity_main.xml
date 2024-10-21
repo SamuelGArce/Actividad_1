@@ -19,6 +19,7 @@
             android:layout_height="wrap_content"
             android:text="Inicio de sesion"
             android:textAlignment="center"
+            android:textColor="#3F51B5"
             android:textSize="20sp" />
 
         <EditText
